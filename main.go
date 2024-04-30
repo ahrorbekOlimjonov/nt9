@@ -10,3 +10,7 @@ func main (){
 	
 	fmt.Println("In new branch")
 }
+
+func MN(){
+	
+}
