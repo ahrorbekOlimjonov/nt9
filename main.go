@@ -14,3 +14,6 @@ func main (){
 func MN(){
 	
 }
+func new(){
+	
+}
